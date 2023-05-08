@@ -5,7 +5,7 @@ Danksharding is a technique used in Ethereum to improve the efficiency and scala
 
 Algebraic properties of product codes that are useful in coefficient extraction and missing data analysis include linearity, error-correcting capabilities, and structured redundancy. These properties enable efficient techniques for extracting information from data sets and interpolating missing values. In this example, we will use SageMath to demonstrate how these properties can be applied to extract coefficients and estimate missing data.
 
-You can read the full article at 
+You can read the full article at [thogiti.github.io](https://thogiti.github.io/error-correction-in-danksharding-harnessing-the-power-of-generalized-reed-solomon-codes-for-ethereum-scalability/).
 
 The code can be found at [github.com](https://github.com/thogiti/GeneralizedReedSolomonCodesforDankshardingEthereum/blob/main/GRSErrorCorrectioninDanksharding.sage).
 
