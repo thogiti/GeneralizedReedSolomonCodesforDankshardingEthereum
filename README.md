@@ -7,5 +7,5 @@ Algebraic properties of product codes that are useful in coefficient extraction 
 
 You can read the full article at 
 
-The code can be found at 
+The code can be found at [github.com](https://github.com/thogiti/GeneralizedReedSolomonCodesforDankshardingEthereum/blob/main/GRSErrorCorrectioninDanksharding.sage).
 
